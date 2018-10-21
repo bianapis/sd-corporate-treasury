@@ -1,0 +1,10 @@
+{
+  "treasuryPlanReference" : "TPR234",
+  "bankRateValue" : "bank Rate Value",
+  "bankRateRecord" : "rate record",
+  "bankRateValueHistory" : "Bank Rate Value History",
+  "bankRateRecordReference" : "BRRR778832",
+  "bankRateType" : "bank Rate Type",
+  "bankRateRecordDateTime" : "2000-01-23T04:56:07.000+00:00",
+  "bankRateValueDateTime" : "2000-01-23T04:56:07.000+00:00"
+}
